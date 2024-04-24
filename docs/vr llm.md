@@ -1,3 +1,10 @@
+---
+layout: default
+title: Buttons
+parent: Vr prompt reply
+nav_order: 2
+---
+
 What a fascinating idea!
 
 Building a VR GUI for an LLM (Large Language Model) interface can be a groundbreaking project. Here are some thoughts to consider:
